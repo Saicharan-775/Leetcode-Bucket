@@ -14,7 +14,7 @@ const ProblemCard = () => {
       <div className="flex items-start p-4">
         <input
           type="checkbox"
-          className="w-6 h-6 mt-1 rounded-md border-2 mt-15 border-gray-500 cursor-pointer 
+          className="w-6 h-6  rounded-md border-2 mt-15 border-gray-500 cursor-pointer 
                      checked:bg-green-500 checked:border-green-500 transition-all"
         />
       </div>
